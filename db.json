@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "React",
+      "description": "React Native Framework for Android and iOS"
+    },
+    {
+      "id": 2,
+      "title": "Angular 2.0",
+      "description": "Angular 2.0 is the fastest way to create and execute Angular applications on Android and iOS"
+    },
+    {
+      "id": 3,
+      "title": "HTML 4",
+      "description": "React Native Framework for Android and iOS"
+    },
+    {
+      "id": 4,
+      "title": "CSS 5",
+      "description": "Angular 2.0 is the fastest way to create and execute Angular applications on Android and iOS"
+    }
+  ]
+}
